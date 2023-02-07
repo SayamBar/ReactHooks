@@ -1,7 +1,7 @@
-import Ref from "./Ref";
+import Callback from "./Callback";
 function App() {
   return (
-    <Ref />
+    <Callback />
   )
 }
 
